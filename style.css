@@ -1,0 +1,65 @@
+
+body{
+    background:rgb(212, 212, 217);
+}
+
+
+*{ 
+    margin: 0; 
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.header{
+background: white;
+width: 100%;
+
+}
+
+h1{
+    max-width: 500px;
+    margin: 0 auto;
+    width: 100%;
+
+    
+    
+}
+
+.container{
+    margin: 50px 0 0 0px;
+    height: 100%;
+}
+
+.block{
+    width: 100%;
+    max-width: 500px;
+    margin: 50px auto 50px auto;
+    background: white;
+}
+.block-header{   
+    height: 40px;
+    line-height: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+img{
+    width:100%;
+    height:auto;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+    color:gray;
+
+}
+.info{
+    border-top: rgb(212, 212, 217) 1px solid;
+    padding: 15px 15px 15px 15px;
+}
